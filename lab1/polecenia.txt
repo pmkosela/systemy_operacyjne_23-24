@@ -1,0 +1,23 @@
+./belzebub &
+./belzebub & ./belzebub 
+a.out
+a.out
+bg 1
+bg 2
+df -h
+echo $PATH
+fg 1
+htop
+jobs
+kill 23250
+killall belzebub
+ls /etc/
+ls bin
+ls dev/
+ls home/
+ls media/
+ls mnt/
+ls root
+ls var/
+ps -a -u -x -l -f -e
+top
