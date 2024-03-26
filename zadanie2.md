@@ -13,10 +13,3 @@
 4. Napisz program, który stworzy wątek, a następnie poczeka na jego zakończenie
    i skończy działanie. Zmodyfikuj ten program tak, aby nie czekał na
    zakończenie wątku.
-
-5. Zaobserwuj cykl życia wątków przy pomocy polecenia *ps*; porównaj go z
-   cyklem życia procesów.
-
-6. W programie stwórz macierz liczb całkowitych. Oblicz sumę wszystkich liczb
-   tej macierzy. W tym celu uruchom osobny wątek dla każdego wiersza, a
-   na koniec dodaj do siebie otrzymane wyniki.
