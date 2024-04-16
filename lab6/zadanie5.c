@@ -18,13 +18,15 @@
 
 void parent(int *deskryptory, char *plik) {
 	//int t = dup(deskryptory[0]);
-	//dup2(deskryptory[0], 1);
-	dup2(1, deskryptory[1]);
+	dup2(deskryptory[1], 1);
 	execlp(plik, "--", NULL);
+	close(deskryptory[1]);
+	close(deskryptory[0]);
 }
 
 void child(int *deskryptory, char *plik) {
-	dup2(deskryptory[0], 0);
+	close(deskryptory[1]); // <-- winowajca
+        dup2(deskryptory[0], 0);
 	execlp(plik, "--", NULL);
 }
 
