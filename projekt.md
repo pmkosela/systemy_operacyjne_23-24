@@ -5,7 +5,7 @@
 - Nie ograniczamy się do tematów z zajęć.
 - Pomysł może być ambitny, od stopnia realizacji nie zależy ocena.
 - Na koniec odbędą się "obrony". Może być tak, że poproszę kogoś o odpowiedź w cztery oczy.
-- Wszelkie plagiaty, oszustwa, brak udziału -> 2.
+- Wszelkie plagiaty, oszustwa, niezłożenie projektu w terminie -> 2.
 
 Terminy:
 - 4.06.24 -- zgłoszenie grup.
