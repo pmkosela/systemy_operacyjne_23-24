@@ -10,8 +10,8 @@
 Terminy:
 - 4.06.24 -- zgłoszenie grup.
 - 11.06.24 -- pomysły, założenia.
-- 18.06.24 -- "pre-pre-omega", jakiś kod.
-- 14.07.24 -- termin złożenia projektu.
+- ~~18.06.24 -- "pre-pre-omega", jakiś kod.~~
+- **12.07.24** -- termin złożenia projektu.
 
 Przykładowe tematy:
 - Tekstowa implementacja gry planszowej, karcianej.
